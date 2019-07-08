@@ -8,6 +8,3 @@ General Notes:
  * GitHub has issues rendering Juptyer Notebooks consistantly (issue 3035):   
    Workaround URL (copy URL to notebook into site): https://nbviewer.jupyter.org/
 
-### Tableau Public
-
-### Power BI
